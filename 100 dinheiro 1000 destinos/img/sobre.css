@@ -1,0 +1,17 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Amatic SC', cursive;
+}
+header {
+    background-color:rgb(18, 107, 88);
+}
+
+section{
+    text-align: center;
+    position: center;
+}
+
+footer{  
+        background-color:rgb(18, 107, 88);  
+}        
